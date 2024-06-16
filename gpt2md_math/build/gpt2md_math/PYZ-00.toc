@@ -1,4 +1,4 @@
-('C:\\Users\\laizh\\Desktop\\自定义程序\\gpt2md_math\\build\\gpt2md_math\\PYZ-00.pyz',
+('C:\\Users\\laizh\\Documents\\GitHub\\gpt2md_math\\gpt2md_math\\build\\gpt2md_math\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\ProgramData\\anaconda3\\Lib\\_compat_pickle.py',
    'PYMODULE'),
