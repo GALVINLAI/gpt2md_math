@@ -8,3 +8,5 @@
 4. 在 Markdown 编辑器中刷新即可。
 5. 如需要修改脚本细节，请查看 `your_script.py`。
 
+视频演示：[【数学科研向】将 ChatGPT 的回答复制到 Markdown 文件并正常编译数学公式_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1HCV7eyEjm/?vd_source=5d46585e70bbcd5b429ae7cdb6f1e701)
+
